@@ -15,7 +15,7 @@ This repository will eventually contain the standardized analysis protocol used 
 - kallisto -> https://pachterlab.github.io/kallisto/
 - TopHat -> https://ccb.jhu.edu/software/tophat/index.shtml
 - salmon -> http://combine-lab.github.io/salmon/
-- HTSeq -> www-huber.embl.de/HTSeq/
+- HTSeq -> http://www-huber.embl.de/HTSeq/
 - RSubread -> https://bioconductor.org/packages/release/bioc/html/Rsubread.html
 
 ### Normalization and Differential Expression
