@@ -1,6 +1,6 @@
 ## RNASeq workflow
 
-This repository will eventually contain the standardized analysis protocol used in the [Resendis lab](http://resendislab.inmegen.gob.mx). At the moment this is still in planning phase and benchmarking phase.
+This repository will eventually contain the standardized analysis protocol used in the [Resendis lab](http://resendislab.inmegen.gob.mx). At the moment this is still in planning and benchmarking phase.
 
 ## Steps and tool candidates
 
