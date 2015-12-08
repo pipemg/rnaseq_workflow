@@ -17,10 +17,12 @@ This repository will eventually contain the standardized analysis protocol used 
 - salmon -> http://combine-lab.github.io/salmon/
 - HTSeq -> http://www-huber.embl.de/HTSeq/
 - RSubread -> https://bioconductor.org/packages/release/bioc/html/Rsubread.html
+- StringTie -> http://www.nature.com/nbt/journal/v33/n3/full/nbt.3122.html
 
 ### Normalization and Differential Expression
 
 - DeSeq2 -> https://bioconductor.org/packages/release/bioc/html/DESeq2.html
 - edgeR -> https://www.bioconductor.org/packages/3.3/bioc/html/edgeR.html
 - sleuth (for kallisto and salmon) -> https://pachterlab.github.io/sleuth
+- limma + voom -> https://www.bioconductor.org/packages/release/bioc/html/limma.html
 
